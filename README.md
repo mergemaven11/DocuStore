@@ -1,24 +1,12 @@
-# README
+# DocuStore 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Is a CRUD web application where you can create, edit and store documents/notes. Similar to Evernote.  
 
-Things you may want to cover:
 
-* Ruby version
+Things to know:
 
-* System dependencies
+* Ruby version: 2.5.0
 
-* Configuration
+* Database: sqlite3
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
