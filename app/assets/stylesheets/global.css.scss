@@ -69,7 +69,11 @@ a {
 // HEADER STYLING
 
 header {
-	background: #529ECC;
+	background: linear-gradient(
+    to right,
+    rgb(124, 241, 196),
+    rgb(119, 162, 243),
+  );
 	position: absolute;
 	top: 0;
 	width: 100%;
