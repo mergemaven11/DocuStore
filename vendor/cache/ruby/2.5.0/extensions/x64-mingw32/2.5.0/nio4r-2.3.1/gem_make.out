@@ -1,0 +1,14 @@
+current directory: C:/Users/tscot/Desktop/RailsProject/DocuStore/vendor/cache/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
+C:/Ruby25-x64/bin/ruby.exe -r ./siteconf20190526-424-1p25wr0.rb extconf.rb
+
+current directory: C:/Users/tscot/Desktop/RailsProject/DocuStore/vendor/cache/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" clean
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: C:/Users/tscot/Desktop/RailsProject/DocuStore/vendor/cache/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: C:/Users/tscot/Desktop/RailsProject/DocuStore/vendor/cache/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" install
+make: Nothing to be done for 'install'.
