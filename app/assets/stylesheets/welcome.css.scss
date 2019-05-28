@@ -46,6 +46,8 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
+	background-color: rgba(255, 255, 255, 0.3);
+    background-blend-mode: lighten; 
 	width: 100%;
 	min-height: 400px;
 	display: table;
@@ -76,8 +78,8 @@
 	text-align: center;
 	padding: 7.5rem 0;
 	h2 {;
-		color: $dark_gray;
-		font-size: 2rem;
+		color: #529ECC;
+		font-size: 1.5rem;
 		margin: 0;
 		
 	}

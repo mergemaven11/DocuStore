@@ -1,9 +1,11 @@
 # DocuStore 
 
+![](app/assets/images/docustore.JPG)
+
 This Is a CRUD web application where you can create, edit and store documents/notes. Similar to Evernote.  
 
 
-Things to know:
+Details:
 
 * Ruby version: 2.5.0
 
