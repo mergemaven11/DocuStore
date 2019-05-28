@@ -4,7 +4,10 @@
   %title DocuStore | Access your documents from anywhere!
   = stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track' => true
   = javascript_include_tag 'application', 'data-turbolinks-track'=> true
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   = csrf_meta_tags
+  <link href="https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap" rel="stylesheet">
+
 %body
   %header
     .header_inner
@@ -12,7 +15,7 @@
 
       %nav 
         - if user_signed_in?
-          = link_to "Create Doc", new_doc_path
+          = link_to "Create New", new_doc_path
           = link_to "Sign Out", destroy_user_session_path, method: :delete
         - else
           = link_to "Log In", new_user_session_path

@@ -11,13 +11,14 @@
 		vertical-align: middle;
 		text-align: center;
 		h1 {
-			@include bold_font;
 			color: #529ECC;
 			font-size: 3.5rem;
 			margin: 0;
+			font-family: 'Kaushan Script', cursive;
+
 		}
 		p {
-			font-size: 1.5rem;
+			font-size: 1.3rem;
 			margin: 0 0 2.5rem 0;
 			color: rgba(82,158,204, 0.6);
 		}
@@ -59,8 +60,11 @@
 		float: left;
 		h2 {
 			@include bold_font;
-			color: white;
+			color: #fff;
 			margin-bottom: 0;
+			font-family: 'Kaushan Script', cursive;
+
+
 		}
 		p {
 			color: rgba(255, 255, 255, 0.9);
@@ -71,11 +75,11 @@
 #bottom_cta {
 	text-align: center;
 	padding: 7.5rem 0;
-	h2 {
-		@include bold_font;
+	h2 {;
 		color: $dark_gray;
-		font-size: 3rem;
+		font-size: 2rem;
 		margin: 0;
+		
 	}
 	p {
 			font-size: 1.25rem;
