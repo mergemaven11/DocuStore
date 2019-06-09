@@ -5,7 +5,9 @@
 This Is a CRUD web application where you can create, edit and store documents/notes. Similar to Evernote.  
 
 
-Demo Login:
+Demo Website: https://docu-store.herokuapp.com/
+
+Login: 
 
 * Uname: demo@noemail.com
 
