@@ -1,18 +1,21 @@
 #banner
 	.banner_content
 		%h1 DocuStore
-		%p Have access to your documents, from anywhere.
-		%button= link_to "Enter", new_user_registration_path
+		%p Giving you the power to write and keep track of your notes
+		%button= link_to "Sign-In", new_user_registration_path
 
 #callouts 
 	.callout_inner
 		.wrapper
 			.callout
-				%h1 Organize
-				
+				%br
+				%br
+				%h2 Get Organized Today
+				%br
+					%button= link_to "Join now", new_user_registration_path
+					
 
 #bottom_cta
 	.wrapper
-		%h2 Start keeping track of all your important documents today! 
-		%br
-			%button= link_to "Join now", new_user_registration_path
+		%p Have access to your notes, from anywhere  
+		
