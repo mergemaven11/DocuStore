@@ -5,10 +5,10 @@
 This Is a CRUD web application where you can create, edit and store documents/notes. Similar to Evernote.  
 
 
-Details:
+Demo Login:
 
-* Ruby version: 2.5.0
+*Uname: demo@noemail.com
 
-* Database: sqlite3
+* Pwd: password123
 
 
