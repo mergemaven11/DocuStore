@@ -7,7 +7,7 @@ This Is a CRUD web application where you can create, edit and store documents/no
 
 Demo Login:
 
-*Uname: demo@noemail.com
+* Uname: demo@noemail.com
 
 * Pwd: password123
 
