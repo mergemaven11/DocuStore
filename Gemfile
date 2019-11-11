@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'haml', '~> 5.1', '>= 5.1.1'
-gem 'simple_form', '~> 4.1'
+gem 'simple_form', '~> 5.0'
 gem 'devise', '~> 4.6', '>= 4.6.2'
 
 # Use ActiveStorage variant
